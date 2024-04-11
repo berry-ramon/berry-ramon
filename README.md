@@ -1,4 +1,4 @@
-👋 Hey there! I'm Ian Kanya, a software developer with expertise in both frontend and backend development.
+👋 Hey there! I'm Brandon Kimathi, a software developer with expertise in both frontend and backend development.
 
 🎓 Student at Institute of Software Technologies, passionate about crafting intuitive and engaging user experiences.
 
