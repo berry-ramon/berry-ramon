@@ -1,5 +1,14 @@
+<div style="background-color:#000342aa; color: white;">
+
 # 👨‍💻 Brandon Kimathi
-![Brandon Kimathi](./images/me.jpg)
+
+<div style="display: flex; width: 100%; justify-content: center;">
+<div style="display: flex; width: 400px; height: 400px; object-fit: cover;">
+<img src="./images/me.jpg" alt="Profile Picture" style="height: 100%; object-fit: cover;" />
+</div>
+</div>
+
+
 **Software Developer | Full-Stack Enthusiast | Tech Visionary**
 
 🌟 Welcome to my GitHub!  
