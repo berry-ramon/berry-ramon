@@ -1,4 +1,5 @@
 # 👨‍💻 Brandon Kimathi
+![Brandon Kimathi](./images/me.jpg)
 **Software Developer | Full-Stack Enthusiast | Tech Visionary**
 
 🌟 Welcome to my GitHub!  
