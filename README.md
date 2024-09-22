@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>readme</title>
-</head>
-<body>
-    <div style="background-color:#5e5e5e; color: white;">
+
+<div style="background-color:#5e5e5e; color: white;">
 
 # 👨‍💻 Brandon Kimathi
 
@@ -61,6 +54,3 @@ Feel free to reach out via email at [Brandonkimathiofficial@gmail.com](mailto:Br
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</div>
-</body>
-</html>
