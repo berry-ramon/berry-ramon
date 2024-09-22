@@ -1,5 +1,4 @@
 
-<div style="background-color:#5e5e5e; color: white;">
 
 # 👨‍💻 Brandon Kimathi
 
