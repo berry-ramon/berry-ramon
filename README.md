@@ -2,8 +2,8 @@
 
 # 👨‍💻 Brandon Kimathi
 
-<div style="display: flex; width: 100%; justify-content: center;">
-<div style="display: flex; width: 400px; height: 400px; object-fit: cover;">
+<div style="display: flex; width: 100%; justify-content: center; align-items: center;">
+<div style="display: flex; width: 200px; height: 200px; object-fit: cover;">
 <img src="./images/me.jpg" alt="Profile Picture" style="height: 100%; object-fit: cover;" />
 </div>
 </div>
