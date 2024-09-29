@@ -1,11 +1,7 @@
 
 
 # 👨‍💻 Brandon Kimathi
-<div style=" display: flex; align-items: center; justify-content: center;">
-  <div style="object-fit: cover; width: 300px; height: 400px; border: 1px solid aqua; border-radius: 70px; overflow: hidden; ">
     <img src="./images//me.jpg" alt="An Image Of Brandon Kimathi" style="; width: 100; height: 100; box-sizing: border-box; object-fit: cover; " >
-  </div>
-</div>
 
 **Software Developer | Full-Stack Enthusiast | Tech Visionary**
 
