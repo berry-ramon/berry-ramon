@@ -1,7 +1,8 @@
 
 
 # 👨‍💻 Brandon Kimathi
-    <img src="./images//me.jpg" alt="An Image Of Brandon Kimathi" style="; width: 100; height: 100; box-sizing: border-box; object-fit: cover; " >
+
+<img src="./images//me.jpg" alt="An Image Of Brandon Kimathi" style="; width: 100; height: 100; box-sizing: border-box; object-fit: cover;">
 
 **Software Developer | Full-Stack Enthusiast | Tech Visionary**
 
