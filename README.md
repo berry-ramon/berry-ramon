@@ -15,7 +15,7 @@
 
 ## 🎓 **Education**
 
-![Education GIF](https://media.giphy.com/media/3o7TKBtP4y1bW1U4mU/giphy.gif)
+![Education GIF](https://media.giphy.com/media/J3tS5Jg4Mts5cnwdCL/giphy.gif)
 
 Student at the **Institute of Software Technologies**, exploring the depths of technology and crafting innovative solutions.
 
