@@ -3,7 +3,7 @@
 
 # 👨‍💻 Brandon Kimathi
 
-##Software Developer | Full-Stack Enthusiast | Tech Visionary
+##Software Developer | Full-Stack Enthusiast | Tech Visionary##
 
 🌟 Welcome to my GitHub!  
 I'm Brandon Kimathi, a passionate software developer skilled in turning complex ideas into elegant, scalable solutions. My expertise spans both front-end and back-end development, ensuring a seamless and enjoyable experience for users.
