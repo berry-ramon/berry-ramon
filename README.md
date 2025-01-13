@@ -5,27 +5,66 @@
 
 ##Software Developer | Full-Stack Enthusiast | Tech Visionary##
 
-🌟 Welcome to my GitHub!  
-I'm Brandon Kimathi, a passionate software developer skilled in turning complex ideas into elegant, scalable solutions. My expertise spans both front-end and back-end development, ensuring a seamless and enjoyable experience for users.
+## ![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) **Welcome to My GitHub!**
 
-## 🎓 Education
-Student at the Institute of Software Technologies, where I dive deep into the world of technology, focusing on creating impactful and innovative solutions.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=berry-ramon)  
+![GitHub Streak](https://streak-stats.demolab.com?user=berry-ramon&theme=dark&date_format=j%20M%5B%20Y%5D)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=berry-ramon&show_icons=true&theme=radical)
 
-## 💻 Skills & Specialties
-- **Frontend Development:** HTML, CSS, JavaScript, React
-- **Backend Development:** Node.js, Express, MongoDB, SQL
-- **Mobile App Development:** Building cross-platform apps with React Native
+---
 
-## 🚀 Mission & Vision
-I thrive on the challenges of building efficient systems that solve real-world problems. My goal is to continuously learn and grow, leveraging technology to make a positive impact.
+## 🎓 **Education**
 
-## 🌐 Projects & Contributions
-Explore my projects below and see how I bring ideas to life. From e-commerce platforms to dynamic event management systems, I love crafting solutions that make a difference.
+![Education GIF](https://media.giphy.com/media/3o7TKBtP4y1bW1U4mU/giphy.gif)
 
-## 📧 Contact Me
-Feel free to reach out via email at [Brandonkimathiofficial@gmail.com](mailto:Brandonkimathiofficial@gmail.com) or [berryramon12@gmail.com](mailto:berryramon12@gmail.com). Let's connect on [LinkedIn](https://www.linkedin.com/) and create something incredible together!
+Student at the **Institute of Software Technologies**, exploring the depths of technology and crafting innovative solutions.
 
-✨ Let's build the future, one line of code at a time.
+---
+
+## 🛠️ **Skills & Tools**
+
+### Frontend Development:
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend Development:
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)
+
+### Mobile Development:
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+## 🚀 **Mission & Vision**
+
+![Mission GIF](https://media.giphy.com/media/l378tfUghqShu4E5a/giphy.gif)
+
+Building efficient systems that solve real-world problems, one line of code at a time. Always learning, always growing, always making an impact.
+
+---
+
+## 🌐 **Projects & Contributions**
+
+![Projects GIF](https://media.giphy.com/media/YgSChvJ4U4c7aR4gl8/giphy.gif)
+
+Explore my latest creations! From **e-commerce platforms** to **dynamic event management systems**, I strive to build solutions that matter.
+
+---
+
+## 📬 **Contact Me**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Brandonkimathiofficial@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/berry-ramon)
+
+---
+
+✨ **Let's build the future together, one line of code at a time!**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/5zbfQxhgcr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tech_nomad5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-kimathi-9542a8301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tech_Nomad5) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@berry-ramon) 
