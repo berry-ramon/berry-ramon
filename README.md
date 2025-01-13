@@ -50,7 +50,7 @@ Building efficient systems that solve real-world problems, one line of code at a
 
 ## 🌐 **Projects & Contributions**
 
-![Projects GIF](https://media.giphy.com/media/YgSChvJ4U4c7aR4gl8/giphy.gif)
+![Projects GIF](https://media.giphy.com/media/2gNOZeTdqbLUeEvVjA/giphy.gif)
 
 Explore my latest creations! From **e-commerce platforms** to **dynamic event management systems**, I strive to build solutions that matter.
 
