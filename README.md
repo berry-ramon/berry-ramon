@@ -74,7 +74,8 @@ Explore my latest creations! From **e-commerce platforms** to **dynamic event ma
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=berry-ramon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=berry-ramon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=berry-ramon&theme=dark&hide_border=true&cache_seconds=86400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=berry-ramon&theme=dark&hide_border=true&token=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)](https://git.io/streak-stats)
+
 
 
 
