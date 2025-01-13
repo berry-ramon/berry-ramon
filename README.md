@@ -42,7 +42,7 @@ Student at the **Institute of Software Technologies**, exploring the depths of t
 
 ## 🚀 **Mission & Vision**
 
-![Mission GIF](https://media.giphy.com/media/l378tfUghqShu4E5a/giphy.gif)
+![Mission GIF](https://media.giphy.com/media/rp1gdampOw76q2ZCS9/giphy.gif)
 
 Building efficient systems that solve real-world problems, one line of code at a time. Always learning, always growing, always making an impact.
 
