@@ -8,7 +8,7 @@
 ## ![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) **Welcome to My GitHub!**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=berry-ramon)  <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=berry-ramon&theme=dark&hide_border=true&token=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)](https://git.io/streak-stats)
+
 
 ---
 
